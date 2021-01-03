@@ -1,0 +1,25 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "Social Network Backend",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrsparl/social-network.git"
+  },
+  "author": "John Sparling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrsparl/social-network/issues"
+  },
+  "homepage": "https://github.com/jrsparl/social-network#readme"
+}
